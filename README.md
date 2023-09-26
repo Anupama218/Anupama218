@@ -1,6 +1,6 @@
-👋 Hi there, I'm Anupama!
+# 👋 Hi there, I'm Anupama!
 
-👩‍💻 Computer Science student with a passion for Frontend development Android development.
+# 👩‍💻 Computer Science student with a passion for Frontend development Android development.
 
 🌟 About Me:
 - 🚀 Experienced in Android app development using Kotlin, Retrofit, Room DB, and Android architecture patterns.
