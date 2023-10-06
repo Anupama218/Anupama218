@@ -21,7 +21,6 @@
 
 🌐 Connect with me:
 - 📧 Email: anupamakjha@gmail.com
-- 📱 Phone: 8929414655
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anupama-j-5862631a1/)
 
 🔗 Explore my projects and contributions here on GitHub!
