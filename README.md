@@ -1,29 +1,64 @@
-## 👋 Hi there, I'm Anupama!
+<h1 align="center">Hi 👋, I'm Anupama</h1>
+<h3 align="center">Software Developer | Python, React.js, AWS, Terraform | DSA Enthusiast</h3>
 
-## 👩‍💻 Computer Science student with a passion for Frontend development Android development.
+<p align="center">
+  <a href="https://www.linkedin.com/in/anupama-j-5862631a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Anupama218" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/Anupama18/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-🌟 About Me:
-- 🚀 Experienced in Android app development using Kotlin, Retrofit, Room DB, and Android architecture patterns.
-- 🤖 Enthusiastic about machine learning and have worked on projects to improve prediction accuracy using Python, machine learning techniques, and data analysis.
-- 📊 Skilled in data retrieval and analysis with proficiency in Python, NumPy, Pandas, and Matplotlib.
-- 🤖 Currently working on mern stack.
+---
 
-🎓 Education:
-- 🏫 Completed BTech (Hons) in Computer Science at JC Bose University of Science and Technology, YMCA.
-- 🎯 Achieved a CGPA of 8.51, showcasing dedication to academic excellence.
+🔧 **About Me**  
+I'm a passionate Software Developer currently working onsite at **Nasdaq** via Marlabs. I love building scalable web apps, automating infrastructure with Terraform, and solving challenging problems.
 
-💡 Skills:
-- 💻 Programming Languages: C, C++, Python, Kotlin, JavaScript.
-- 🤖 Technologies: Android, Machine Learning, Rest API.
-- 🗃️ Databases: SQL, SQLite, MongoDB.
-- 🛠️ Tools: Git, Google Colab, Android Studio, VSCode, Jupyter Notebook.
-- 🧩 Others: Problem-Solving, Data Structures, OOP, HTML, CSS, ReactJs.
+- 👩‍💻 1+ years of professional experience as a developer
+- 🧠 Strong in **Python, React.js, JavaScript, SQL, NoSQL, AWS, Terraform**, and **REST API Development**
+- ⚙️ Automating AWS domain transfers & managing infrastructure with **Terraform**
+- 📊 Building real-time dashboards & tools for Investor Relations
+- 🧰 Containerizing apps using **Docker** and deploying on **AWS App Runner**
 
-🌐 Connect with me:
-- 📧 Email: anupamakjha@gmail.com
-- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anupama-j-5862631a1/)
+---
 
-🔗 Explore my projects and contributions here on GitHub!
+🌟 **Tech Stack**
 
-Let's collaborate and create innovative solutions together. Feel free to reach out for exciting opportunities and collaborations.
+- **Languages:** Python, JavaScript, Kotlin, C++, Java  
+- **Frameworks:** Django, FastAPI, React.js, Android SDK  
+- **Cloud & DevOps:** AWS (EC2, RDS, App Runner), Docker, Terraform  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Elasticsearch  
+- **Tools:** GitHub Copilot, Redux Toolkit, React Query  
+
+---
+
+📌 **Projects**
+
+🔹 [React Chat Application](https://github.com/Anupama218/React-Chat-Application/tree/Anupama218-patch-1)  
+Real-time chat app with Firebase auth & messaging.  
+`React.js • Firebase • CSS • Responsive Design`
+
+🔹 [Lead Management System](https://github.com/Anupama218/Key-Account-Manager-KAM-Lead-Management-System)  
+Efficient lead tracking and management system for restaurant chains.  
+`Python • Django • FastAPI • Swagger • PostgreSQL`
+
+---
+
+🏆 **Achievements**
+
+- 🧠 Solved **500+ problems** across platforms like LeetCode, HackerRank  
+- ⭐ 5 stars on HackerRank (Problem Solving & SQL)  
+- 🥇 SWC Advanced Level by Samsung (DSA + System Design)  
+- 📊 Scored **98 percentile** in JEE Mains  
+
+---
+
+📫 **Let's Connect**  
+Feel free to reach out if you want to collaborate or just say hi!  
+📩 anupamajha184@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/anupama-j-5862631a1/)
 
